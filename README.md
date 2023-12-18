@@ -1,5 +1,5 @@
 
-## Trustee District Overlaps with Other Electoral District Overlaps
+## Trustee District Overlaps with Other Electoral Districts
 
 ### View the map [as its own web page here](https://cgilchriest-dcccd.github.io/trustee-overlaps/)
 
